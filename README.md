@@ -2,7 +2,7 @@ Hello,
 
 I made a Github finally!
 - I'm interested in "inventing" new ideas that havent been done before and games.
-- I'm can program in C, JavaScript, some V, and have done a little php.
+- I can program in C, JavaScript, some V, and have done a little php.
 - You can email me on tallhouse64@protonmail.com
 - I'm christian, it's more fun than you think!
 
